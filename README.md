@@ -40,7 +40,7 @@ Copiar la carpeta plataforma_agricola dentro de la carpeta htdocs de XAMPP.
 
 Abrir phpMyAdmin desde http://localhost/phpmyadmin.
 
-Crear una base de datos llamada agrobolivar.
+Crear una base de datos llamada agrobolivar
 
 Seleccionar la base de datos e importar el archivo agrobolivar.sql.
 
